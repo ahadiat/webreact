@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webreact/static/css/main.5312e22d.css",
+    "main.js": "/webreact/static/js/main.8ec22fe8.js",
+    "static/media/lap.svg": "/webreact/static/media/lap.f32ee95237ac30d9e9524924af8df740.svg",
+    "static/media/human.jpeg": "/webreact/static/media/human.9cdfcbbf55bec0b091e9.jpeg",
+    "index.html": "/webreact/index.html",
+    "main.5312e22d.css.map": "/webreact/static/css/main.5312e22d.css.map",
+    "main.8ec22fe8.js.map": "/webreact/static/js/main.8ec22fe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5312e22d.css",
+    "static/js/main.8ec22fe8.js"
+  ]
+}
